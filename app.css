@@ -2,6 +2,20 @@ body{
     background: #f5d9df ;
     font-family: "Nunito";
 }
+.blurb h2{
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2rem;
+}
+.blurb p{
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1rem;
+    line-height: 2;
+}
+.content{
+    margin-top: 100px ;
+}
 #mainNav{
     font-size: 1.5rem;
     font-weight: 100;
